@@ -1,8 +1,8 @@
-Title: Game Night Result Tracker (GNRT)
+Title: GameNight Result Tracker (GNRT)
 Author: Igor Bistrovic
 Company: -
 Project: - 
-Version: 0.0.1
+Version: 0.0.5
 UpdateNotes: -
 Change log: 
   20/03/19:   - created "README.md"
@@ -10,3 +10,9 @@ Change log:
               - created ".gitgnore" template:
                   .vs                      
               - created GameNightResultTracker MVC project
+              - removing template content
+              - added 2 buttons on home page
+                  - Burnout Paradise
+                  - Pro Evolution Soccer
+                      - configured to link with About and Contact Views (for test)
+              - reused template welcome box with app welcome message
