@@ -1,0 +1,12 @@
+Title: Game Night Result Tracker (GNRT)
+Author: Igor Bistrovic
+Company: -
+Project: - 
+Version: 0.0.1
+UpdateNotes: -
+Change log: 
+  20/03/19:   - created "README.md"
+              - created git repository
+              - created ".gitgnore" template:
+                  .vs                      
+              - created GameNightResultTracker MVC project
