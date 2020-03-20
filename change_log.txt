@@ -2,7 +2,7 @@ Title: GameNight Result Tracker (GNRT)
 Author: Igor Bistrovic
 Company: -
 Project: - 
-Version: 0.0.5
+Version: 0.0.7
 UpdateNotes: -
 Change log: 
   20/03/19:   - created "README.md"
@@ -16,3 +16,6 @@ Change log:
                   - Pro Evolution Soccer
                       - configured to link with About and Contact Views (for test)
               - reused template welcome box with app welcome message
+  20/03/20:   - created GNRTDatabase project
+              - created Player table
+                    - published database

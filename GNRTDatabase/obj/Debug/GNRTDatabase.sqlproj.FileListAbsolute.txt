@@ -1,0 +1,10 @@
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\bin\Debug\GNRTDatabase.dacpac
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\bin\Debug\GNRTDatabase.dll
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\bin\Debug\GNRTDatabase.pdb
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\GNRTDatabase.sqlprojAssemblyReference.cache
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\Model.xml
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\refactor.xml
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\postdeploy.sql
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\predeploy.sql
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\GNRTDatabase.dll
+D:\dev\Biig_dev\cs\GameNightResultTracker\GNRTDatabase\obj\Debug\GNRTDatabase.pdb
